@@ -16,7 +16,7 @@
     "@types/mocha": "^10.0.10",
     "dotenv": "17.2.1",
     "ethers": "^6.13.5",
-    "mocha": "^11.1.0",
+    "mocha": "^11.7.5",
     "polkadot-api": "^1.22.0",
     "rxjs": "^7.8.2",
     "scale-ts": "^1.6.1",
